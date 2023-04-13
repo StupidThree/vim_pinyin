@@ -3,7 +3,7 @@ ai 1
 ba 1
 ben 2
 bi 3
-biao 1
+biao 2
 bie 2
 bing 2
 bu 7
@@ -108,7 +108,7 @@ sui 3
 suo 5
 tai 2 3
 te 5
-tian 2
+tian 2 1
 ting 1 1
 tingle 1
 tu 2
@@ -130,7 +130,7 @@ yangjuan 1
 yao 1
 ye 4
 yi 9
-yijian 1
+yijian 2
 yilai 1
 yin 2
 ying 3
@@ -143,7 +143,7 @@ za 1
 zai 13
 zhe 2
 zhen 1
-zhengshen 2
+zhengshen 3
 zhenshi 3
 zhi 6
 zhong 10
