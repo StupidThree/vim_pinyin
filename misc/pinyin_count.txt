@@ -20,7 +20,7 @@ dai 1
 dan 4
 dang 4
 dao 3
-de 48
+de 49
 deng 2
 di 1 2
 dian 3
@@ -31,7 +31,7 @@ duo 5
 en 2
 fa 4
 fan 1
-gai 2
+gai 2 1
 gan 5
 gang 2
 gao 2
@@ -57,7 +57,7 @@ jiang 2
 jie 1
 jiejue 3
 jiner 1
-jiu 2
+jiu 3
 jue 5
 kan 7
 kande 1
@@ -123,12 +123,12 @@ xiang 7
 xianshi 1
 xiao 2
 xie 1 1
-xin 4
+xin 5
 xiu 2
 yang 2
 yangjuan 1
 yao 1
-ye 4
+ye 5
 yi 9
 yijian 2
 yilai 1
@@ -146,6 +146,6 @@ zhen 1
 zhengshen 3
 zhenshi 3
 zhi 6
-zhong 10
+zhong 11
 zi 1
 zuo 2
