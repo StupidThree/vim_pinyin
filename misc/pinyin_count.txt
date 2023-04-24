@@ -11,6 +11,7 @@ chan 3
 chang 1
 cheng 3
 chi 1
+chong 1
 chu 3
 ci 2
 cong 1
@@ -20,7 +21,7 @@ dai 1
 dan 5
 dang 4
 dao 3
-de 57
+de 58
 deng 2
 di 2 2
 dian 3
@@ -43,14 +44,14 @@ gongyou 1
 gu 1
 guan 1
 guo 3
-hai 2
+hai 3
 hao 5
-he 8
+he 9
 hen 9
 hou 2
 huan 2
 huanjie 1
-hui 6
+hui 7
 huozhe 1
 ji 1
 jian 1
@@ -67,7 +68,7 @@ ke 1
 ken 2
 keti 14
 kuai 2
-lai 3 1
+lai 4 1
 le 16
 lei 3 2
 li 1 1
@@ -84,6 +85,7 @@ neng 4
 ni 1
 nian 2
 nie 1
+nv 1
 o 1
 paichu 1 1
 pianzi 1
@@ -105,7 +107,7 @@ she 2
 shen 5
 sheng 7
 shenghua 1
-shi 22 15
+shi 23 16
 shu 1
 shuo 1
 sou 1
@@ -122,7 +124,7 @@ wan 1
 wansui 1
 wei 4
 wen 4
-wo 5
+wo 6
 wu 1
 xi 5
 xia 2
@@ -158,7 +160,7 @@ zhengshen 3
 zhenshi 4
 zhi 6
 zhong 12
-zhu 1
+zhu 2
 zhushou 1
 zi 1
 zuo 2
