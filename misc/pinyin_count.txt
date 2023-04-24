@@ -20,7 +20,7 @@ dai 1
 dan 5
 dang 4
 dao 3
-de 56
+de 57
 deng 2
 di 2 2
 dian 3
@@ -68,7 +68,7 @@ ken 2
 keti 14
 kuai 2
 lai 3 1
-le 15
+le 16
 lei 3 2
 li 1 1
 lin 1
@@ -93,7 +93,7 @@ qi 2
 qian 2
 qing 2
 que 1
-ran 3
+ran 4
 ranhou 1
 ren 1
 ru 1
@@ -117,7 +117,7 @@ te 5
 tian 2 1
 ting 1 1
 tingle 1
-tu 3
+tu 4
 wan 1
 wansui 1
 wei 4
