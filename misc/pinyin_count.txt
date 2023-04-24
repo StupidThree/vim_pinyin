@@ -1,15 +1,15 @@
 a 1 1
 ai 1
-ba 1
+ba 3
 ben 2
 bi 3
 biao 2
 bie 2
 bing 2
-bu 7
+bu 8
 chan 3
 chang 1
-cheng 3
+cheng 4
 chi 1
 chong 1
 chu 3
@@ -18,8 +18,8 @@ cong 1
 cun 3
 da 2
 dai 1
-dan 5
-dang 4
+dan 6
+dang 6
 dao 3
 de 58
 deng 2
@@ -27,9 +27,10 @@ di 2 2
 dian 3
 ding 3
 dou 2
-dui 1
+dui 2 1
 duo 5
 en 2
+er 1
 fa 4
 fan 1
 fei 1
@@ -97,7 +98,7 @@ qing 2
 que 1
 ran 4
 ranhou 1
-ren 1
+ren 4
 ru 1
 sa 1
 san 1
@@ -107,13 +108,13 @@ she 2
 shen 5
 sheng 7
 shenghua 1
-shi 23 16
+shi 24 16
 shu 1
 shuo 1
 sou 1
 sudu 1
 sui 3
-suo 5
+suo 7
 tai 2 3
 te 5
 tian 2 1
@@ -145,7 +146,7 @@ yin 2
 ying 3
 yipian 1
 yong 3
-you 10 1
+you 12 1
 youci 1
 yu 1 1
 yuan 1
