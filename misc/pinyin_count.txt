@@ -4,7 +4,7 @@ ba 4
 ben 2
 bi 3
 biao 2
-bie 2
+bie 3
 bing 2
 bu 8
 chan 3
@@ -21,7 +21,7 @@ dai 1
 dan 6
 dang 7
 dao 3
-de 59
+de 61
 deng 2
 di 2 2
 dian 3
@@ -34,6 +34,7 @@ er 1
 fa 4
 fan 1
 fei 1
+fen 1
 gai 2 1
 gan 5
 gang 2
@@ -55,7 +56,7 @@ huanjie 1
 hui 7 1
 huiyi 1
 huozhe 1
-ji 1
+ji 3
 jian 1
 jiang 3
 jie 1
