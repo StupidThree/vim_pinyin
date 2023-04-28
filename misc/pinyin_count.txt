@@ -127,7 +127,7 @@ wansui 1
 wei 4
 wen 5
 wo 6
-wu 1
+wu 2
 xi 5
 xia 2
 xiang 7
