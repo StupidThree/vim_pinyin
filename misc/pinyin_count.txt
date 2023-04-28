@@ -151,8 +151,9 @@ yong 3
 you 13 1
 youci 1
 yu 1 1
-yuan 1
+yuan 2
 yuandan 2
+yuanshi 1
 yue 1
 yushi 3
 za 1
