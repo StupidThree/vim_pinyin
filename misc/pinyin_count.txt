@@ -39,7 +39,7 @@ fen 1
 fu 1
 fushu 3
 gai 2 2
-gaiyong 1
+gaiyong 2
 gan 5
 gang 2
 gao 2
