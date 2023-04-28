@@ -17,6 +17,7 @@ chu 4
 ci 2
 cong 3
 cun 4
+d 1
 da 3
 dai 1
 dan 6
@@ -39,7 +40,7 @@ fei 1
 fen 1
 fu 1
 fushu 3
-gai 2 2
+gai 3 2
 gaiyong 2
 gan 5
 gang 2
@@ -50,10 +51,10 @@ geng 5
 gongyou 1
 gu 1
 guan 1
-guo 3
+guo 4
 hai 4
 hao 5
-he 9
+he 10
 hen 9
 hou 3
 huan 2
@@ -64,7 +65,7 @@ huozhe 1
 ji 4
 jian 1
 jiang 3
-jie 1
+jie 2
 jiejue 3
 jin 1
 jiner 1
@@ -87,6 +88,7 @@ man 1
 me 4
 mei 4 1
 meng 1
+mian 1
 na 2 1
 ne 2
 neng 4
@@ -137,7 +139,7 @@ wen 5
 wo 6
 wu 2
 xi 5
-xia 2
+xia 3
 xian 1
 xiang 7
 xianshi 1
@@ -154,7 +156,7 @@ yiban 1
 yijian 2
 yilai 1
 yin 2
-ying 3
+ying 4
 yipian 1
 yong 4
 you 13 1
