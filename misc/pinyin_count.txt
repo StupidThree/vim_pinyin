@@ -50,6 +50,7 @@ ge 2
 gege 1
 geng 5
 gongyou 1
+gou 1
 gu 2
 guan 1
 guo 4
@@ -66,7 +67,7 @@ huozhe 1
 ji 4
 jian 1
 jiang 3
-jie 2
+jie 3
 jiejue 3
 jin 1
 jiner 1
