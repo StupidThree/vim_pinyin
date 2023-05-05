@@ -1,6 +1,7 @@
 a 1 1
 ai 1
 ba 4
+bao 1
 ben 4
 bi 3
 bian 2
@@ -11,7 +12,7 @@ bu 10
 ce 1
 chan 3
 chang 1
-cheng 5
+cheng 6
 chi 1
 chong 1
 chu 4
@@ -69,7 +70,7 @@ ji 4
 jian 1
 jiang 3
 jie 3
-jiejue 3
+jiejue 4
 jin 1
 jiner 1
 jiu 4
@@ -81,12 +82,15 @@ ke 1
 ken 3
 keti 14
 kuai 2
+kuo 1
 lai 6 1
 le 19
-lei 3 2
+lei 3 3
 li 3 3
 lin 1
 ling 1
+liu 1
+liulei 1
 lu 1
 man 1
 me 4
@@ -180,6 +184,7 @@ yun 2
 yushi 3
 za 1
 zai 18
+zao 1
 zhao 1
 zhe 3
 zhen 1
