@@ -8,6 +8,7 @@ biao 2
 bie 3
 bing 2
 bu 10
+ce 1
 chan 3
 chang 1
 cheng 5
@@ -121,7 +122,7 @@ she 2
 shen 5
 sheng 7
 shenghua 1
-shi 28 19
+shi 29 19
 shu 3
 shuo 1
 sou 1
@@ -148,7 +149,7 @@ xianshi 1
 xiao 2
 xie 2 1
 xin 5
-xing 1
+xing 2
 xiu 2
 yang 4
 yangjuan 1
@@ -164,12 +165,13 @@ yipian 1
 yong 5
 you 13 1
 youci 1
-yu 1 1
+yu 2 1
 yuan 3
 yuandan 2
 yuanli 1 1 1
 yuanshi 2
 yue 1
+yun 1
 yushi 3
 za 1
 zai 17
