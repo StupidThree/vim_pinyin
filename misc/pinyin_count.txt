@@ -149,7 +149,7 @@ xianshi 1
 xiao 2
 xie 2 1
 xin 5
-xing 2
+xing 3
 xiu 2
 yang 4
 yangjuan 1
@@ -171,7 +171,7 @@ yuandan 2
 yuanli 1 1 1
 yuanshi 2
 yue 1
-yun 1
+yun 2
 yushi 3
 za 1
 zai 17
