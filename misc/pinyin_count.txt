@@ -70,7 +70,7 @@ jie 2
 jiejue 3
 jin 1
 jiner 1
-jiu 3
+jiu 4
 jue 5
 kai 1
 kan 11
@@ -152,6 +152,7 @@ xie 2 1
 xin 5
 xing 3
 xiu 2
+yan 1
 yang 4
 yangjuan 1
 yao 1
@@ -166,7 +167,7 @@ yipian 1
 yong 5
 you 13 1
 youci 1
-yu 2 1
+yu 3 1
 yuan 3
 yuandan 2
 yuanli 1 1 1
