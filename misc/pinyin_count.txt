@@ -17,14 +17,14 @@ chong 1
 chu 4
 ci 2
 cong 3
-cun 4
+cun 5
 d 1
 da 3
 dai 1
 dan 6
 dang 7
 dao 3
-de 74
+de 76
 deng 2
 di 2 2
 dian 3
@@ -32,7 +32,7 @@ ding 3
 dou 2
 dui 2 1
 duo 5
-en 2
+en 3
 er 1
 fa 6
 fan 1
@@ -41,6 +41,7 @@ fei 1
 fen 1
 fu 1
 fushu 3
+ga 1
 gai 3 2
 gaiyong 2
 gan 5
@@ -77,7 +78,7 @@ kai 1
 kan 11
 kande 1
 ke 1
-ken 2
+ken 3
 keti 14
 kuai 2
 lai 6 1
@@ -136,7 +137,7 @@ te 5
 tian 2 1
 ting 1 1
 tingle 1
-tu 4
+tu 5
 wan 1
 wansui 1
 wei 4
@@ -177,7 +178,7 @@ yue 1
 yun 2
 yushi 3
 za 1
-zai 17
+zai 18
 zhao 1
 zhe 3
 zhen 1
