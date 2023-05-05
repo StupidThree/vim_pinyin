@@ -23,7 +23,7 @@ dai 1
 dan 6
 dang 7
 dao 3
-de 73
+de 74
 deng 2
 di 2 2
 dian 3
@@ -49,7 +49,7 @@ ge 2
 gege 1
 geng 5
 gongyou 1
-gu 1
+gu 2
 guan 1
 guo 4
 hai 4
@@ -89,6 +89,7 @@ me 4
 mei 4 1
 meng 1
 mian 1
+mo 1
 na 2 1
 ne 2
 neng 4
@@ -100,6 +101,7 @@ o 1
 paichu 1 1
 pianzi 1
 pin 1
+ping 1
 pu 1
 qi 4 1
 qian 2
@@ -146,6 +148,7 @@ xianshi 1
 xiao 2
 xie 2 1
 xin 5
+xing 1
 xiu 2
 yang 4
 yangjuan 1
@@ -162,8 +165,9 @@ yong 5
 you 13 1
 youci 1
 yu 1 1
-yuan 2
+yuan 3
 yuandan 2
+yuanli 1 1 1
 yuanshi 2
 yue 1
 yushi 3
