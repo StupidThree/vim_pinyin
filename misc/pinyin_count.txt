@@ -34,7 +34,7 @@ dui 2 1
 duo 5
 en 2
 er 1
-fa 5
+fa 6
 fan 1
 fang 1
 fei 1
@@ -72,6 +72,7 @@ jin 1
 jiner 1
 jiu 3
 jue 5
+kai 1
 kan 11
 kande 1
 ke 1
