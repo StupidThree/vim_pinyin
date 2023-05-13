@@ -25,7 +25,7 @@ dai 1
 dan 6
 dang 7
 dao 3
-de 77
+de 78
 deng 2
 di 2 2
 dian 3
@@ -48,9 +48,10 @@ gaiyong 2
 gan 5
 gang 2
 gao 2
-ge 2
+ge 3
 gege 1
 geng 5
+gong 1
 gongyou 1
 gou 1
 gu 2
@@ -67,6 +68,7 @@ hui 7 1
 huiyi 1
 huozhe 1
 ji 4
+jia 1
 jian 1
 jiang 3
 jie 3
@@ -192,7 +194,7 @@ zheng 3
 zhengshen 3
 zhenshi 4
 zhi 7 1
-zhong 13
+zhong 14
 zhu 2
 zhushou 1
 zi 1
